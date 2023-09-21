@@ -32,6 +32,8 @@ public:
     void disableDrawFlag();
 
 private:
+    // void clearScreen();
+
     std::array<uint8_t, MEMORY_SIZE> memory_;
     std::array<uint8_t, REGISTER_COUNT> registers_;
     uint16_t opcode_;
