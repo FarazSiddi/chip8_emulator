@@ -29,16 +29,7 @@
     <ClInclude Include="Chip8.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="Constants.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
     <ClInclude Include="KeyboardHandler.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Timer.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Mode.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
