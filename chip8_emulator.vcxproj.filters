@@ -21,7 +21,7 @@
     <ClCompile Include="Chip8.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="KeyboardHandler.cpp">
+    <ClCompile Include="Platform.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -29,7 +29,7 @@
     <ClInclude Include="Chip8.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="KeyboardHandler.h">
+    <ClInclude Include="Platform.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
