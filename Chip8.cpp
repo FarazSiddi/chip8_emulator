@@ -2,6 +2,7 @@
 
 #include <fstream>
 #include <chrono>
+#include <cstring>
 #include <random>
 #include <cstdint>
 
