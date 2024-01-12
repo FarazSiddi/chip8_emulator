@@ -17,7 +17,7 @@ SDL2, GLAD, Visual Studio (optional)
 ### Installation
 Clone the repo
    ```sh
-git clone https://github.com/akash5852/chip8-emulator
+git clone https://github.com/null-2020/chip8_emulator.git
    ```
  Get <a href="https://wiki.libsdl.org/Installation">SDL2</a>, installation varies based on OS.
 
