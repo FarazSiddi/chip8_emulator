@@ -1,6 +1,6 @@
 #include <cstdint>
 #include <SDL.h>
-#include <glad/gl.h>
+#include <glad/glad.h>
 
 class Platform
 {
