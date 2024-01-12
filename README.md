@@ -19,7 +19,7 @@ Clone the repo
    ```sh
 git clone https://github.com/null-2020/chip8_emulator.git
    ```
- Get <a href="https://wiki.libsdl.org/Installation">SDL2</a>, installation varies based on OS.
+ Get <a href="https://wiki.libsdl.org/Installation">SDL2</a>, installation varies based on OS. Also download the files from the <a href="https://glad.dav1d.de/">GLAD web service</a>, where the language is set to C++ and select an OpenGL version of at least 3.3 in the API section. Make sure the profile is set to Core and that the "Generate a loader option" is ticked. Then click "Generate" to produce the resulting library files.
 
 ### Deployment
 
