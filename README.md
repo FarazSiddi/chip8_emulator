@@ -12,8 +12,14 @@ Chip8 is a virtual machine that was created in the 1970s to allow video games to
 ## Getting Started
 
 ### Prerequisites
+SDL2, GLAD, Visual Studio (optional)
 
 ### Installation
+Clone the repo
+   ```sh
+git clone https://github.com/akash5852/chip8-emulator
+   ```
+ Get <a href="https://wiki.libsdl.org/Installation">SDL2</a>, installation varies based on OS.
 
 ### Deployment
 
