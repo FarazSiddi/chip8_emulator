@@ -2,6 +2,16 @@
 An emulator written in C++ based on Austin Morlan's "Building a CHIP-8 Emulator" blog post.
 
 ## Screenshots
+<p width="600">
+  Breakout:
+  </br>
+    <img src="https://github.com/FarazSiddi/chip8_emulator/blob/master/images/breakout.png" alt="breakout" width="600" >
+</p>
+<p width="600">
+  Tetris:
+  </br>
+    <img src="https://github.com/FarazSiddi/chip8_emulator/blob/master/images/tetris.png" alt="tetris" width="600" >
+</p>
 
 ## About the Project
 I have always been interested in learning C++. I found it as a very challenging programming language with a steep learning curve, but I decided to try it out as I saw it could help me improve as a programmer and discover the potential in learning emulation and computer graphics. I decided to start with the Chip8 emulator because it is a simple system to emulate, and is the best way to show off my current knowledge in C++.
